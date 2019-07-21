@@ -44,5 +44,9 @@ def get_image():
 
 
 if __name__ == '__main__':
+<<<<<<< HEAD
     app.run(debug = False)
     app.run(host ='0.0.0.0',port=5000)
+=======
+    app.run(debug = True)
+>>>>>>> origin/master
